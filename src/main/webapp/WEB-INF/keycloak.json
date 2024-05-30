@@ -1,0 +1,8 @@
+{
+  "realm": "TravelAgency",
+  "auth-server-url": "http://localhost:7070",
+  "ssl-required": "none",
+  "resource": "travelAgency",
+  "public-client": true,
+  "confidential-port": 0
+}
